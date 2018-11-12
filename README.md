@@ -37,15 +37,17 @@ Data are encapsulated as beans. Java reflection is intensively used in the beans
 ## Demo
 1. Existing activity logs
 
-![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo1.png")
+![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo1.png)
+
 2. Add a new log
 
-![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo2.png")
-![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo3.png")
+![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo2.png)
+![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo3.png)
+
 3. Delete a previous log
 
-![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo4.png")
-![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo5.png")
+![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo4.png)
+![alt text](https://github.com/Lucas12138/Cassandra-Java-Boot/blob/master/resource/demoScreenshots/demo5.png)
 
 ## TODO
 - Discuss about the compaction strategy
