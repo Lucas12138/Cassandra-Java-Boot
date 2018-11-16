@@ -54,3 +54,5 @@ Data are encapsulated as beans. Java reflection is intensively used in the beans
 - Consider more about the consistency level
 - Implement stream query features
 - Make a blog 
+- Consider if Action pattern, synchronizing on a hashMap, will lead to performance issue
+- How to achieve atomicity across difference tables, currently it's hard to achieve because different daos are used in controller layer 
